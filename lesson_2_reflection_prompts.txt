@@ -20,6 +20,10 @@ comando git diff.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Como se explico en el video, las ramas te son de gran ayuda cuando estás 
+en una etapa experimental del proyecto, o quieres agregarle cosas que no 
+afectan la estructura del programa.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in

@@ -26,6 +26,9 @@ afectan la estructura del programa.
 
 How do the diagrams help you visualize the branch structure?
 
+Indican en que preciso commit hubo un nuevo branch y como se va ramificando
+el diagrama.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

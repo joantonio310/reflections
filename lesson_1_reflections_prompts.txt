@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Creo que es bastante conveniente, sobre todo cuando estoy corriendo programas
+    bastante largos, con cientos o miles de líneas de código. Además, con esto
+    puedes fácilmente regresar a la versión anterior en caso de que tu programa
+    truene.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Puedes ver el progreso de todo el proyecto, además creo que el punto más
+    fuerte de esta técnica es el hecho de que para trabajos colaborativos
+    puedes ver quién hizo qué o fácilmente encontrar un bug y quién lo hizo.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Yo creo que el principal pro y a la vez contra es que puede llegar a ser
+    un poco subjetivo cuando realmente debes realizar un commit, hay personas
+    que lo entenderán mejor que otras y para un trabajo en equipo puede haber 
+    malentendidos de cuando realmente hacer un commit. Por otra parte, es mejor
+    que el guardado automático, puesto que puedes detectar más facilmente los
+    errores y el progreso.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Tal como ponían de ejemplo las propias anfitrionas, muchas veces el código
+    que estás modificando en un archivo repercute directamente en otro, por lo
+    que pienso que es un gran acierto que Git guarde el cambio de todos los 
+    archivos.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Por una parte, el comando git log muestra todos los commits hechos, 
+    dandote información como el id, la hora y el mensaje de porque se hizo
+    ese commit. Por otra parte, git diff compara directamente dos commits
+    haciendo notar que lines fueron insertadas o borradas.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Porque sabes que puedes regresar a una versión anterior donde el programa
+    corría bien.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Quiero probar git para mis próximos proyectos que tendré en programación
+    avanzada y móviles

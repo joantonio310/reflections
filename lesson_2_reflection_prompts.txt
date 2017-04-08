@@ -32,5 +32,9 @@ el diagrama.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Agregamos una característica completamente nueva al juego, que en este caso
+fueron los coins. Por otra parte, esto represento para el diagrama la 
+convergencia de dos ramificaciones en una (master con el branch de coin).
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
